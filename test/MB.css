@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    margin: 0px;
+    
+}
+header 
+{
+background-color: gold;
+padding:20px;
+margin-bottom: 50px;
+text-align: center;
+}
+.parent
+{
+    display:flex;
+}
+.whole
+{
+     border : gold solid 5px;
+    background-color: gold;
+    margin-top: 200px;
+}
+.parent
+{
+    display: flex;
+    padding : 50px;
+}
+.column
+{
+    
+    margin: 0 30px;
+}
